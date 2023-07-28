@@ -1,13 +1,14 @@
 # DALL-E-Clone-MERN-STACK
 
-![localhost_5173_(PC) (2)](https://github.com/mahmudhmh/DALL-E-Clone-MERN-STACK/assets/54104161/f33f14c6-5dd1-44a1-afb9-78c00e1ddac5)
+![localhost_5173_(PC) (2)](https://github.com/mahmudhmh/DALL-E-Clone-MERN-STACK/assets/54104161/eb5cb4ba-c79e-4e96-a7a9-f91747445558)
+
 
 
 ## Overview
 
 DALL-E-Clone-MERN-STACK is a full-stack MERN (MongoDB, Express, React, Node.js) web application that offers an exciting AI image generation experience, similar to MidJourney and DALL-E Clone. By leveraging the power of the MERN stack and integrating various cutting-edge technologies, this project enables users to create and customize unique images through the AI-powered DALLE API.
 
-![localhost_5173_create-post(PC)](https://github.com/mahmudhmh/DALL-E-Clone-MERN-STACK/assets/54104161/6e012146-0573-41f9-9292-d7cf369ed3ca)
+![localhost_5173_create-post(PC)](https://github.com/mahmudhmh/DALL-E-Clone-MERN-STACK/assets/54104161/4cfff8cc-37fe-468f-b24f-b60b66b4dec8)
 
 
 ## Features
